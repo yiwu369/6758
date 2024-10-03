@@ -523,20 +523,14 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8$720P
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$720P
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$720P
-凤凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=631170156107453
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$576P
-凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$1080P
 
 翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 
-凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
-凤凰中文,http://182.104.192.98:8180/TV00000000000000000008@HHZT
+
 
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193$576P
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
@@ -572,9 +566,7 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 
-凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
-凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -591,21 +583,14 @@ ELTA生活旅游,http://shuma004.chunfengyun.top:8080/live/85/hls.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://f13h.mine.nu:1935/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://f13h.mine.nu:1935/sat/tv071
 
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
+凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://free.xiptv.x10.bz/kudou.php?id=121
 凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192
 凤凰中文,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.162:2192
-凤凰中文,http://www.372583307.top:4022/udp/233.50.200.19
-凤凰中文,http://119.129.173.161:8081/hls/19/index.m3u8
-
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://free.xiptv.x10.bz/kudou.php?id=122
-凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
+凤凰中文,http://182.104.192.98:8180/TV00000000000000000008@HHZT
 凤凰资讯,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.118:2191
-凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
-
+凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
 
 凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
