@@ -557,13 +557,12 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 唯心电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$576P
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-
 
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -572,28 +571,28 @@ HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中天新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727024323/ei/YvjvZpeDPZ-W1d8PkMuWuAs/ip/38.60.246.58/id/6-KBj03Tqhk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51273601/txs/51273600%2C51273601%2C51273602%2C51273603%2C51273604%2C51273605/hfr/1/playlist_duration/30/manifest_duration/30/spc/54MbxR8mvk2wSEKmBhQ7V-GgUnuWOL9-w18pmMv2FOfXJUcr3qmvMnZNst7gp8A00Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIM5QYZLtFBMtGZ9P1sCy86gavaT6XSVY2iWpnlcdDqDAiB3RNmm_76rsiw_rd3SPLknkt0drwUigQwF4rHe_RmzGw%3D%3D/file/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721#rtmp://f13h.mine.nu/sat/tv721
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 FTV旅游,http://shuma004.chunfengyun.top:8080/live/82/hls.m3u8
 ELTA生活旅游,http://shuma004.chunfengyun.top:8080/live/85/hls.m3u8
 三立台湾台,https://stream1.freetv.fun/c9b365b59685f8ab89ee3093d113a00d242df64ae9706364c932d0cede18dcde.m3u8
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 东森超视,rtmp://f13h.mine.nu:1935/sat/tv331#rtmp://twcdn.top/sat/tv331
-民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://f13h.mine.nu:1935/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://f13h.mine.nu:1935/sat/tv071
+民视,rtmp://f13h.mine.nu:1935/sat/tv051
+台视,rtmp://f13h.mine.nu:1935/sat/tv071
 
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
-凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192$1080P
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192
-凤凰中文,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.162:2192
+凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192$1080P
+凤凰中文,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.162:2192$1080P
 凤凰中文,http://182.104.192.98:8180/TV00000000000000000008@HHZT
-凤凰资讯,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.118:2191
-凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
+凤凰资讯,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.118:2191$1080P
+凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191$1080P
 
-凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv$720P
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$720P
+凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231$1080P
+凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$720P
 
 广东频道,#genre#
 
