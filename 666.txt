@@ -1,5 +1,24 @@
 ﻿央视频道,#genre#
 
+CCTV-1综合,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv1.m3u8
+CCTV-2财经,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv2.m3u8
+CCTV-3综艺,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv3.m3u8
+CCTV-4中文国际,,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv4.m3u8
+CCTV-5体育,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5.m3u8
+CCTV-5+体育赛事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5p.m3u8
+CCTV-6电影,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv6.m3u8
+CCTV-7国防军事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv7.m3u8
+CCTV-8电视剧,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv8.m3u8
+CCTV-9纪录,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv9.m3u8
+CCTV-10科教,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv10.m3u8
+CCTV-11戏曲,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv11.m3u8
+CCTV-12社会与法,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv12.m3u8
+CCTV-13新闻,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv13.m3u8
+CCTV-14少儿,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv14.m3u8
+CCTV-15音乐,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv15.m3u8
+CCTV-16奥林匹克,,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv16.m3u8
+CCTV-17农业农村,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv17.m3u8
+
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$中国移动
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$中国移动
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$中国移动
@@ -108,25 +127,6 @@ CCTV-14少儿,http://123.118.231.179:9090/rtp/239.3.1.65:8132$北京联通
 CCTV-15音乐,http://123.118.231.179:9090/rtp/239.3.1.153:8136$北京联通
 CCTV-16奥林匹克,http://123.118.231.179:9090/rtp/239.3.1.184:8001$北京联通
 CCTV-17农业农村,http://123.118.231.179:9090/rtp/239.3.1.151:8144$北京联通
-
-CCTV-1综合,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv1.m3u8
-CCTV-2财经,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv2.m3u8
-CCTV-3综艺,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv3.m3u8
-CCTV-4中文国际,,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv4.m3u8
-CCTV-5体育,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5.m3u8
-CCTV-5+体育赛事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5p.m3u8
-CCTV-6电影,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv6.m3u8
-CCTV-7国防军事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv7.m3u8
-CCTV-8电视剧,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv8.m3u8
-CCTV-9纪录,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv9.m3u8
-CCTV-10科教,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv10.m3u8
-CCTV-11戏曲,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv11.m3u8
-CCTV-12社会与法,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv12.m3u8
-CCTV-13新闻,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv13.m3u8
-CCTV-14少儿,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv14.m3u8
-CCTV-15音乐,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv15.m3u8
-CCTV-16奥林匹克,,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv16.m3u8
-CCTV-17农业农村,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv17.m3u8
 
 卫视频道,#genre#
 
